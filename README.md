@@ -5,9 +5,9 @@
    - 💻 [Personal Portfolio](https://fadh1l.github.io/index.html)
    - 🏢 [LinkedIn](https://www.linkedin.com/in/fadhil-kolakkadan/)
 - 🤙 Contact me at:
-   - 📧 [Email](fadhilko@gmail.com)
+   - 📧 [Email](akshaykrishnanam@gmail.com)
 
 
-[![Fadhil's github stats](https://github-readme-stats.vercel.app/api?username=fadh1l&count_private=true&show_icons=true&theme=tokyonight&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Akshay's github stats](https://github-readme-stats.vercel.app/api?username=akxhhay&count_private=true&show_icons=true&theme=tokyonight&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fadh1l&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akxhhayl&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
