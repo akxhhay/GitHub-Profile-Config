@@ -3,7 +3,7 @@
 - :zap: I love math and Computers, so that's how I spend most of my days
 - 📌 More about me at:
    - 💻 [Personal Portfolio](https://fadh1l.github.io/index.html)
-   - 🏢 [LinkedIn](https://www.linkedin.com/in/fadhil-kolakkadan/)
+   - 🏢 [LinkedIn](https://www.linkedin.com/in/akshay-krishnan-895024220/)
 - 🤙 Contact me at:
    - 📧 [Email](akshaykrishnanam@gmail.com)
 
