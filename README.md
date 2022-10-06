@@ -1,8 +1,8 @@
 ### Hi there. I'm Akshay Krishnan 👋
 
-- :zap: I love math and Computers, so that's how I spend most of my days
+- :zap: I am a Machine Learning enthusiast, currently a student in SRM University. 
 - 📌 More about me at:
-   - 💻 [Personal Portfolio](https://fadh1l.github.io/index.html)
+   - 💻 [Personal Portfolio](https://akxhhay.github.io/)
    - 🏢 [LinkedIn](https://www.linkedin.com/in/akshay-krishnan-895024220/)
 - 🤙 Contact me at:
    - 📧 [Email](akshaykrishnanam@gmail.com)
